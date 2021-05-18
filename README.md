@@ -1,2 +1,2 @@
 # RazorPagesMovie
-.NET Core RazorPages app using Entity Framework Core
+ASP.NET Core RazorPages app using Entity Framework Core.
